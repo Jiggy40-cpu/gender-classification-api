@@ -4,7 +4,7 @@
   "description": "Genderize API integration endpoint",
   "main": "api/classify.js",
   "dependencies": {
-    "axios": "^1.6.0",
+    "axios": "^1.6.0"
   },
   "scripts": {
     "dev": "vercel dev"
